@@ -1,0 +1,16 @@
+4,4,90
+3,3,2,2
+3,2,1,2
+1,2,3,3
+1,2,2,2
+f,f,f,f
+f,f,f,f
+t,f,f,f
+f,f,f,f
+f,f,f,f
+f,f,f,f,f
+f,f,t,f,f
+f,f,f,f,f
+f,t,t,f,f
+Fertilizer,4,4
+Weedkiller,2,2

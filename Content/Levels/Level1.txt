@@ -1,0 +1,13 @@
+3,3,90
+1,2,-1
+2,3,3
+2,3,3
+f,f,f
+t,f,t
+f,f,f
+f,f,f
+f,f,t,f
+f,f,f,f
+f,f,f,f
+f,f,f,f
+Fertilizer,1,3
